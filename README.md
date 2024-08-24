@@ -5,7 +5,7 @@
  
   Hi 👋, I’m Sunder Singh
 - 👀 I’m interested in ... DevOps, Generative AI
-- 🌱 I’m currently learning ... DevOps,and OPenshift DO288, Oracle Cloud
+- 🌱 I’m currently learning ... DevOps,and Openshift DO288, Oracle Cloud
 - 🖥️ Ash me About ......
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://www.linkedin.com/in/sundersingh27/
