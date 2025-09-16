@@ -1,92 +1,78 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1ED760,100:228B22&height=200&section=header&text=Sunder%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-</p>
+# 👋 Hi, I'm Sunder Singh  
 
-<!-- CONTACT SECTION -->
-<p align="center">
-  <a href="https://linkedin.com/in/sundersingh27">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:sunder.sarari@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/SunderSingh27">
-    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+> 💻 **Cloud & DevOps Engineer** | 🚀 **Generative AI Ops Enthusiast** | 🏗 **Platform Engineering Explorer**
 
 ---
 
-<h3 align="center">💻 Cloud & DevOps Engineer | Generative AI Ops Enthusiast | Platform Engineer</h3>
+## 📊 Quick Stats  
+| **Experience** | **Projects** | **Certifications** | **Conference** |
+|---------------|-------------|--------------------|----------------|
+| 2+ Years in IT/Infra | 5+ Completed | 3+ Verified | Attended KubeCon India 2025 |
 
 ---
 
-<!-- TECH STACK -->
-<h2 align="center">⚡ Tech Stack</h2>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,jenkins,git,github,linux,python" />
-</p>
+## 🛠 Tech Stack  
+
+**Cloud & Infra:** AWS · Kubernetes · Docker · Terraform · Ansible  
+**CI/CD & Automation:** GitHub Actions · Jenkins · Linux · Shell Scripting  
+**Languages:** Python · Bash · YAML  
+**Other Skills:** Git · Monitoring (Prometheus, Grafana) · FinOps  
 
 ---
 
-<!-- EXPERIENCE -->
-<h2 align="center">💼 Experience</h2>
+## 💼 Professional Experience  
 
-| Role | Company | Year |
-|------|---------|------|
-| **Associate – Infrastructure Services** | CS Infocomm Pvt Ltd | 2025–Present |
-| **IT Support Engineer** | VFS Global | 2025 |
-| **Generative AI Ops Intern** | LinuxWorld | 2023 |
-| **Data Entry Operator** | Flipkart | 2020–2021 |
+### 🔧 Associate – Infrastructure Services @ CS Infocomm Pvt Ltd (2025–Present)
+- Designed & maintained Linux/Windows servers, improved uptime by 20%.
+- Automated monitoring & alerting with Prometheus/Grafana.
 
----
+### 🖥 IT Support Engineer @ VFS Global (2025)
+- Resolved 50+ incidents weekly, automated routine tasks (efficiency +15%).
 
-<!-- CERTIFICATIONS -->
-<h2 align="center">📜 Certifications & Conferences</h2>
-<p align="center">
-🎯 FinOps Foundation – Introduction to FinOps (Linux Foundation, 2024) <br/>
-🎯 Prompt Engineering Certified (2024) <br/>
-🎯 Red Hat OpenShift DO288 (Cloud-Native Apps) <br/>
-🎤 Attended CNCF KubeCon + CloudNativeCon India 2025 (Hyderabad)
-</p>
+### 🤖 Generative AI Ops Intern @ LinuxWorld (2023)
+- Researched AI Ops, tuned models for infra performance benchmarking.
 
 ---
 
-<!-- PROJECTS -->
-<h2 align="center">🚀 Featured Projects</h2>
-<p align="center">
-🔹 **AWS Cloud Control of AI** – Hand gesture control system using AI, Python, CV2, Mediapipe. <br/>
-🔹 **Enhancing Shop Transactions** – Database + Blockchain integrated transaction system.
-</p>
+## 📜 Certifications & Learning  
+
+- 🎯 **FinOps Foundation – Introduction to FinOps** (Linux Foundation, 2024)  
+- 🎯 **Prompt Engineering Certified (2024)**  
+- 🎯 **Red Hat OpenShift DO288** – Building & Deploying Cloud-Native Apps  
+- 🎤 Attended **CNCF KubeCon + CloudNativeCon India 2025**
 
 ---
 
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Dashboard</h2>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SunderSingh27&theme=tokyonight" alt="streak" /><br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=SunderSingh27&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunderSingh27&layout=compact&theme=tokyonight" height="150"/>
-</p>
+## 🚀 Projects  
+
+| **Project** | **Tech** | **Summary** |
+|-------------|----------|-------------|
+| AWS Cloud Control of AI | Python, CV2, AWS | AI-powered hand gesture control system. |
+| Shop Transaction Automation | Blockchain, CSV, Python | Secure shop transaction system with DB + blockchain. |
 
 ---
 
-<!-- TROPHIES & PROFILE VIEWS -->
-<h2 align="center">🏆 Achievements & Visitors</h2>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SunderSingh27&theme=tokyonight&margin-w=10&no-frame=true&row=1" />
-</p>
+## 📈 GitHub Insights  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SunderSingh27&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SunderSingh27&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=SunderSingh27&show_icons=true&theme=tokyonight) |
+|----------------------------------------------------------------|--------------------------------------------------------------------------------|
 
-<!-- FOOTER -->
-<p align="center">
-  ⭐ Open to collaborations, platform engineering projects, and DevOps automation work!
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunderSingh27&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:228B22,100:1ED760&height=120&section=footer"/>
-</p>
+---
+
+## 🏆 Achievements  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SunderSingh27&theme=tokyonight&margin-w=5&row=1)
+
+---
+
+## 📬 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/sundersingh27)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sunder.sarari@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/SunderSingh27)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=SunderSingh27&label=Profile%20Views&color=0e75b6&style=flat)
