@@ -53,9 +53,11 @@
 ---
 
 ## 📈 Profile Visitors
-![Profile Views](https://api.countapi.xyz/hit/SunderSingh27/SunderSingh27)
-![Visitors](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/SunderSingh27/SunderSingh27)
 ![Profile Views](https://komarev.com/ghpvc/?username=SunderSingh27&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/SunderSingh27/SunderSingh27)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SunderSingh27&theme=tokyonight)
+![Sunder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SunderSingh27&show_icons=true&theme=tokyonight)
+
 
 ---
 
