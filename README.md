@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Sunder Singh  
 
-💻 **Cloud & DevOps Engineer** | 🚀 **Generative AI Ops Enthusiast** | 🌐 **Open Source Contributor**  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=1ED760&width=600&lines=Cloud+%26+DevOps+Engineer;AI+Ops+%7C+Generative+AI;Open+Source+Contributor;Platform+Engineering+Enthusiast)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/sundersingh27)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/SunderSingh27)
-[![Email](https://img.shields.io/badge/Email-sunder.sarari%40gmail.com-red?logo=gmail)](mailto:sunder.sarari@gmail.com)
+💻 **Cloud & DevOps Engineer** | 🚀 **Generative AI Ops Enthusiast** | 🏗 **Platform Engineer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/sundersingh27)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=flat)](https://github.com/SunderSingh27)
+[![Email](https://img.shields.io/badge/Email-sunder.sarari%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sunder.sarari@gmail.com)
 
 ---
 
@@ -14,43 +16,45 @@
 
 ---
 
-## 🛠 Technical Skills
-- ☁ **Cloud:** AWS, GCP, OpenShift  
-- ⚙ **DevOps:** Kubernetes, Docker, Jenkins, Terraform, Ansible, GitOps, CI/CD  
-- 🧠 **AI/ML:** Generative AI Ops, NLP, MLOps, Model Deployment  
-- 💻 **Programming:** Python, C/C++, JavaScript  
-- 🖥 **Other Tools:** Linux, Git, System Administration  
+## 🛠 Tech Stack
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-## 💼 Experience
-- **Associate – Infrastructure Services | CS Infocomm Pvt Ltd (2025–Present)**  
-  Managed Linux/Windows servers, automated monitoring, improved uptime by 20%.
-- **IT Support Engineer | VFS Global (2025)**  
-  Resolved 50+ weekly incidents, automated repetitive tasks, reduced resolution time by 30%.
-- **Summer Intern – LinuxWorld (2023)**  
-  Worked on Generative AI Ops research, performance tuning, and benchmarking.
+## 💼 Experience Highlights
+- 🏢 **Associate – Infrastructure Services | CS Infocomm Pvt Ltd (2025–Present)**  
+  Reduced downtime by 20% and implemented high-availability monitoring.
+- 🏢 **IT Support Engineer | VFS Global (2025)**  
+  Automated tasks, improving efficiency by 15%.
+- 🎓 **Summer Intern – LinuxWorld (2023)**  
+  Worked on Generative AI Ops, model benchmarking, and optimizations.
 
 ---
 
 ## 🌟 Projects
-- **AWS Cloud Control of AI** → Hand gesture control system using AI + AWS + Python  
-- **Enhancing Shop Transactions** → Integrated database + blockchain for secure retail records  
+- 🤖 **AWS Cloud Control of AI** → Hand gesture control system using AI + AWS + Python  
+- 🛒 **Enhancing Shop Transactions** → Integrated database + blockchain for secure retail records  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SunderSingh27&theme=tokyonight)
+
 ![Sunder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SunderSingh27&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunderSingh27&layout=compact&theme=tokyonight)
 
 ---
 
-## 🎯 Current Focus
-- 🔥 Automating Kubernetes deployments with Terraform  
-- 📦 Building internal developer platform templates (Backstage)  
-- 🛡 Strengthening cloud security compliance and FinOps adoption  
+## 📈 Profile Visitors
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=SunderSingh27.SunderSingh27)
 
 ---
 
-⭐ **Open to collaborations & freelance DevOps/Cloud projects.**
+⭐ **Let's connect — open to collaborations & DevOps/Cloud projects!**
